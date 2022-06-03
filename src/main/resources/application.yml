@@ -7,5 +7,5 @@ spring:
             clientId: 0e357ce11a20512d2f9d
             clientSecret: be482ad55a9eab2c8eb28ddd47fdd87891823588
             google:
-              clientId: 414234778282-4pdv6omudi5ub68kuk1k21tjuo0tgo9o.apps.googleusercontent.com
-                clientSecret: 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
+              clientId:414234778282-4pdv6omudi5ub68kuk1k21tjuo0tgo9o.apps.googleusercontent.com
+                clientSecret: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
